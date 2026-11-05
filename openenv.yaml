@@ -1,0 +1,7 @@
+name: customer-support-triage
+version: "1.0.0"
+description: "A real-world environment where an agent triages customer support tickets into correct departments."
+tasks:
+  - easy
+  - medium
+  - hard
